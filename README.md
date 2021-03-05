@@ -6,9 +6,9 @@ by Jake Kara <jake@jakekara.com>
 
 This repository includes a set of interactive tutorials on writing modular Jupyter Notebooks and the underlying margin note concept that makes them possible, and the specific syntax for margin notes, called Margo.
 
-This repositority can be run live without any installation using MyBinder.org. 
+This repositority can be run live without any installation using MyBinder.org.  
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/margo-notebooks/modular-notebook-tutorial/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/margo-notebooks/modular-notebook-tutorial/HEAD?filepath=README.ipynb)
 
 ## Prerequisites
 
