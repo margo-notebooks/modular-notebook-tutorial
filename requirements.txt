@@ -1,0 +1,6 @@
+# Met API.ipynb
+matplotlib==3.3.4
+requests==2.25.1
+
+# Intro to Margo Loader.ipynb
+margo-loader
